@@ -7,8 +7,11 @@ Created by Shyam Nakrani.
 # Git Basics
 
 git init: Initialize a new Git repository
+
 git add <file>: Stage a file for the next commit
+
 git add .: Stage all changes in the current directory and subdirectories
+
 git commit -m "<message>": Commit changes with a meaningful message
 git log: View commit history
 git status: Check the status of the repository
